@@ -1,0 +1,47 @@
+/* add your CSS here */
+
+span {
+  font-weight: bold;
+}
+h1 {
+  font-weight: bold;
+}
+li {
+  list-style: none;
+}
+
+ul {
+    padding: 0px;
+}
+
+.bigbox {
+  border: 2px solid lightgrey;
+  width: 320px;
+  padding: 10px;
+  box-shadow: 10px 10px lightgrey;
+
+}
+
+.smallbox {
+  border: 1px solid lightgrey;
+  width: 290px;
+  padding: 5px;
+
+}
+
+img {
+  width: 300px;
+  height: 200px;
+}
+
+.italics {
+  font-style: italic;
+}
+
+body {
+  margin: 0px; background:white;
+}
+
+html {
+  font-family: 'Times New Roman', Times, serif;
+}
